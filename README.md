@@ -1,1 +1,1 @@
-# redis-stream
+# spring boot redis-stream example
